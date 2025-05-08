@@ -31,4 +31,4 @@ spec:
     spec:
       containers:
       - name: front-con
-        image: 261595668962.dkr.ecr.ap-northeast-2.amazonaws.com/eks-3tier:11
+        image: 261595668962.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:2
